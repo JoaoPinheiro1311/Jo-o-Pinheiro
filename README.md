@@ -1,7 +1,18 @@
+### <div align="center">Hi 👋, my name is João Pinheiro!</div>  
+  
+
+- 🎓 I'm a 20 year old taking Computer Science in College
+
+
+- ⚡ Fun fact: I like Airsoft 🔫
+  
+
+<br/>  
+
 <table><tr><td valign="top" width="33%">
 
 
-
+  
 ### Frontend  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
