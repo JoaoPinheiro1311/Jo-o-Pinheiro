@@ -35,7 +35,7 @@
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
-<a href="(https://en.wikipedia.org/wiki/C_Sharp_(programming_language))" target="_blank"><img style="margin: 10px" src="[https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg](https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png)" alt="C#" height="50" /></a>  
+<a href="(https://en.wikipedia.org/wiki/C_Sharp_(programming_language))" target="_blank"><img style="margin: 10px" src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png" alt="C#" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
